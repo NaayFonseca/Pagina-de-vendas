@@ -1,9 +1,11 @@
 
-carousel-inner img{
-    width: 50%;
-    height: 50%;
+.card-imoveis{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 50px;
 }
-   
 
 
 
